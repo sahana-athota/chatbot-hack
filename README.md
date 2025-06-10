@@ -2,7 +2,7 @@
 Your digital assistant, always ready to help.
 
 ## Purpose
-This project was developed for a hackathon with the goal of creating a functional chatting website using the Gemini API. The platform supports real-time communication between user and Gemini, file uploads, and features such as document summarization and question-answering using AI
+I have developed this project for a hackathon with the goal of creating a functional chatting website using the Gemini API. The platform supports real-time communication between user and Gemini, file uploads, and features such as document summarization and question-answering using AI
 
 ## Build
 ### Environment Setup
@@ -20,4 +20,3 @@ https://github.com/user-attachments/assets/b974a842-d914-4b3b-a96a-541ac5854538
 
 ---
 
-To view formal documentation, see [this](./documentation.pdf)
